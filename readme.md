@@ -7,12 +7,12 @@ A Group video calling application using the Agora Web SDK with a Django backend.
 
 #### 1 - Clone repo
 ```
-git clone https://github.com/eniiyanu/McMeet
+git clone https://github.com/eniiyanu/mc-meet
 ```
 
 #### 2 - Install requirements
 ```
-cd McMeet
+cd mc-meet
 pip install -r requirements.txt
 ```
 
@@ -43,5 +43,5 @@ python manage.py runserver
 ```
 
 
-"# McMeet" 
+"# mc-meet" 
 "# mc-meet" 
